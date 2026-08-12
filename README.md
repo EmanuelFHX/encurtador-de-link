@@ -8,10 +8,15 @@ Transforme URLs longas em links curtos, copie com um clique e mantenha um histó
 
 <br>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white)
+[![Demo](https://img.shields.io/badge/🌐_Acessar_Demo-Linko-22C55E?style=for-the-badge)](https://encurtador-de-link-virid.vercel.app/)
+
+<br>
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Deploy-000000?logo=vercel&logoColor=white)
 
 </div>
 
