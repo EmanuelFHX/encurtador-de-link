@@ -1,6 +1,8 @@
 {
   "scripts": {
+    "dev": "node server.js",
     "start": "node server.js"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "private": true
 }
